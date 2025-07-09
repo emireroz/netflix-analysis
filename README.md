@@ -1,17 +1,22 @@
-# Netflix Verileri Üzerine Basit Bir Analiz
+## Netflix Dataset Analysis
+Bu projede, Netflix'in halka açık içerik verisi kullanılarak temel düzeyde bir veri analizi gerçekleştirilmiştir.
 
-Bu küçük projemde Netflix'teki yapımların dağılımına dair verileri inceledim.
+## İçerik
+Proje kapsamında yapılan çalışmalar şunlardır:
 
-Amacım hem veriyle oynamak, hem de Python'daki pandas ve matplotlib gibi araçları kullanabilmekti.  
-Grafiklerle bazı şeyleri görselleştirip, neyin ne kadar olduğunu anlamaya çalıştım.
+- Verinin temizlenmesi ve ön işlenmesi
 
-Veri seti Kaggle üzerindendir: (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- Yıllara göre içerik üretim trendi
 
-# Proje Hakkında
-Netflix içerik verisi üzerinde temel veri analizi yaptım
+- En çok içerik üreten ülkelerin dağılımı
 
-# Grafikler
-- Ülkelere göre en çok içerik
-- Türlere göre dağılım
-- Film vs Dizi oranı
-- Yıllara göre içerik üretimi
+- Film ve dizilerin oranları
+
+- En yaygın türler ve içerik süreleri
+
+
+## Veri Seti
+Kullanılan veri, Netflix Titles Dataset başlığıyla Kaggle üzerinden alınmıştır. (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+## Notlar
+Proje boyunca sade anlatım ve net grafikler ön planda tutulmuştur.
